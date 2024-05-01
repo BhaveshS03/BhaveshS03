@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BhaveshS03
+- 👋 Hi, I’m Bhavesh
 - 👀 I’m interested in Emulation and Android Devlopment.
 - 🌱 I’m currently learning Android Dev using RN.
 - 😄 Pronouns: he/him
