@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhavesh
-- 👀 I’m interested in Operating Systems and Android Devlopment.
-- 🌱 I’m currently Doing Android Dev using RN.
+- 👀 I’m interested in Systems Programming and Android Devlopment.
+- 🌱 I’m currently Working on Full Stack Devlopment and Emulation.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: A Computer can do many things, you just need to teach it.
