@@ -7,18 +7,18 @@
 
 <!-- ==================== BADGES ==================== -->
 <p align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-  ![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername?style=social)
-  ![GitHub](https://img.shields.io/github/license/yourusername/yourrepo)
-  ![Visitors](https://komarev.com/ghpvc/?username=yourusername)
+  ![GitHub followers](https://img.shields.io/github/followers/BhaveshS03?style=social)
+  ![GitHub Repo Stars](https://img.shields.io/github/stars/BhaveshS03?style=social)
+  ![GitHub](https://img.shields.io/github/license/BhaveshS03/yourrepo)
+  ![Visitors](https://komarev.com/ghpvc/?username=BhaveshS03)
 </p>
 
 <!-- ==================== STATS ==================== -->
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <p>
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhaveshS03&show_icons=true&theme=radical)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhaveshS03&layout=compact&theme=radical)
   </p>
 </div>
 
@@ -48,21 +48,44 @@
 
 ### Android Projects
 - **Weather App** - Live weather updates using OpenWeatherMap API  
-  [Repo Link](https://github.com/yourusername/weather-app)
+  [Repo Link](https://github.com/BhaveshS03/weather-app)
 
 ### Python Projects
 - **Data Analyzer** - Analyze CSV files and visualize data  
-  [Repo Link](https://github.com/yourusername/data-analyzer)
+  [Repo Link](https://github.com/BhaveshS03/data-analyzer)
+
+### Web & Fullstack Projects
+- **bhaveshs03.github.io** - Personal webfolio to showcase my work  
+  [Repo Link](https://github.com/BhaveshS03/bhaveshs03.github.io)
+- **CollabDocs_frontend** - Frontend for collaborative document editor  
+  [Repo Link](https://github.com/BhaveshS03/CollabDocs_frontend)
+- **notes-app-backend** - Backend API for a notes app  
+  [Repo Link](https://github.com/BhaveshS03/notes-app-backend)
+
+### Game & Emulator Projects
+- **zenboy** - GameBoy Emulator written in Go  
+  [Repo Link](https://github.com/BhaveshS03/zenboy)
+- **Chippy8** - Chip-8 emulator project  
+  [Repo Link](https://github.com/BhaveshS03/Chippy8)
+
+### Linux & Tools
+- **dots** - My Linux scripts collection  
+  [Repo Link](https://github.com/BhaveshS03/dots)
+- **CyliViz** - Visualization tools for data analysis  
+  [Repo Link](https://github.com/BhaveshS03/CyliViz)
+- **Powermon** - AMD CPU power monitor for GNOME  
+  [Repo Link](https://github.com/BhaveshS03/Powermon)
 
 </details>
+
 
 <!-- ==================== CONNECT ==================== -->
 ## 🌐 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a> |
-  <a href="https://twitter.com/yourusername" target="_blank">Twitter</a> |
-  <a href="https://github.com/yourusername" target="_blank">GitHub</a>
+  <a href="https://linkedin.com/in/BhaveshS03" target="_blank">LinkedIn</a> |
+  <a href="https://twitter.com/BhaveshS03" target="_blank">Twitter</a> |
+  <a href="https://github.com/BhaveshS03" target="_blank">GitHub</a>
 </p>
 
 <!-- ==================== FOOTER ==================== -->
-<p align="center">Made with ❤️ by Bhavesh Sonar</p>
+<p align="center">Made with ❤️ by Bhavesh Sonar</p> add projects here
