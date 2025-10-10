@@ -1,91 +1,86 @@
-<!-- ==================== HEADER ==================== -->
+# Hi there, I'm Bhavesh 👋
+
 <div align="center">
-  <h1>🚀 Hello, I'm Bhavesh Sonar!</h1>
-  <p>Android Developer | Python & Data Enthusiast | Open Source Contributor</p>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200"/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Emulator+Enthusiast;Linux+Tinkerer;AI%2FML+Explorer)](https://git.io/typing-svg)
+
 </div>
 
-<!-- ==================== BADGES ==================== -->
-<p align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/BhaveshS03?style=social)
-  ![GitHub Repo Stars](https://img.shields.io/github/stars/BhaveshS03?style=social)
-  ![GitHub](https://img.shields.io/github/license/BhaveshS03/yourrepo)
-  ![Visitors](https://komarev.com/ghpvc/?username=BhaveshS03)
-</p>
+## 🚀 About Me
 
-<!-- ==================== STATS ==================== -->
+I'm a passionate developer who loves building things from the ground up - whether it's emulators, web applications, or diving deep into the Linux kernel. I enjoy working across the entire stack, from low-level systems programming to modern web interfaces.
+
+- 💻 Full-stack web developer
+- 🌾 Exploring AI/ML
+- 🐧 Linux enthusiast and open-source contributor
+- 🔧 System tools developer
+- 🎮 Building emulators: GameBoy, CHIP-8, and more
+
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Areas of Interest
+- 🌐 Full-Stack Web Development
+- 🤖 Machine Learning & Computer Vision
+- 🎯 Systems Programming & Emulation
+
+## 🌟 Featured Projects
+
+### [🌾 AgroAI Models](https://github.com/BhaveshS03/AgroAi_Models)
+AI/ML models for agricultural applications, leveraging computer vision for crop analysis.
+
+### [📝 CollabDocs](https://github.com/BhaveshS03/Collabdocs-ui)
+Real-time collaborative document editing platform with a modern UI and backend infrastructure.
+
+### [⚡ Powermon](https://github.com/BhaveshS03/Powermon)
+AMD CPU power monitoring tool for GNOME desktop environment.
+
+### [👁️ KeypointsExtractor](https://github.com/BhaveshS03/KeypointsExtractor)
+Computer vision tool for extracting keypoints from images using ML techniques.
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <p>
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhaveshS03&show_icons=true&theme=radical)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhaveshS03&layout=compact&theme=radical)
-  </p>
+  
+  ![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhaveshS03&show_icons=true&theme=radical)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhaveshS03&layout=compact&theme=radical)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhaveshS03&theme=radical)
+
 </div>
 
-<!-- ==================== TECH STACK ==================== -->
+## 💻 Currently Working On
+
+- 🚀 Enhancing AgroAI models for better agricultural insights
+- 🎮 Improving ZenBoy emulator accuracy and performance
+- 🐧 Contributing to Linux kernel drivers
+- 📚 Building collaborative tools
+
+## 📫 Connect With Me
+
 <div align="center">
-  <h3>💻 Tech Stack</h3>
-  <p>
-    ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-    ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-    ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-    ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-  </p>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavesh-sonar-920606266/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bhaves731@gmail.com)
+
 </div>
 
-<!-- ==================== ABOUT ME ==================== -->
-## 👋 About Me
-- 🌱 I’m currently learning **Full Stack Development & Data Science**
-- 💼 Looking for **Android Development Internships**
-- 🎯 Goals: Build **open source projects** and contribute to **community tools**
-- 📫 Reach me at: [bhavesh@example.com](mailto:bhavesh@example.com)
+---
 
-<!-- ==================== PROJECTS ==================== -->
-## 📂 Projects
-<details>
-  <summary>Click to expand</summary>
-
-### Android Projects
-- **Weather App** - Live weather updates using OpenWeatherMap API  
-  [Repo Link](https://github.com/BhaveshS03/weather-app)
-
-### Python Projects
-- **Data Analyzer** - Analyze CSV files and visualize data  
-  [Repo Link](https://github.com/BhaveshS03/data-analyzer)
-
-### Web & Fullstack Projects
-- **bhaveshs03.github.io** - Personal webfolio to showcase my work  
-  [Repo Link](https://github.com/BhaveshS03/bhaveshs03.github.io)
-- **CollabDocs_frontend** - Frontend for collaborative document editor  
-  [Repo Link](https://github.com/BhaveshS03/CollabDocs_frontend)
-- **notes-app-backend** - Backend API for a notes app  
-  [Repo Link](https://github.com/BhaveshS03/notes-app-backend)
-
-### Game & Emulator Projects
-- **zenboy** - GameBoy Emulator written in Go  
-  [Repo Link](https://github.com/BhaveshS03/zenboy)
-- **Chippy8** - Chip-8 emulator project  
-  [Repo Link](https://github.com/BhaveshS03/Chippy8)
-
-### Linux & Tools
-- **dots** - My Linux scripts collection  
-  [Repo Link](https://github.com/BhaveshS03/dots)
-- **CyliViz** - Visualization tools for data analysis  
-  [Repo Link](https://github.com/BhaveshS03/CyliViz)
-- **Powermon** - AMD CPU power monitor for GNOME  
-  [Repo Link](https://github.com/BhaveshS03/Powermon)
-
-</details>
-
-
-<!-- ==================== CONNECT ==================== -->
-## 🌐 Connect with Me
-<p>
-  <a href="https://linkedin.com/in/BhaveshS03" target="_blank">LinkedIn</a> |
-  <a href="https://twitter.com/BhaveshS03" target="_blank">Twitter</a> |
-  <a href="https://github.com/BhaveshS03" target="_blank">GitHub</a>
-</p>
-
-<!-- ==================== FOOTER ==================== -->
-<p align="center">Made with ❤️ by Bhavesh Sonar</p> add projects here
+<div align="center">
+  **Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate!** ✨
+</div>
