@@ -63,13 +63,6 @@ Computer vision tool for extracting keypoints from images using ML techniques.
 
 </div>
 
-## 💻 Currently Working On
-
-- 🚀 Enhancing AgroAI models for better agricultural insights
-- 🎮 Improving ZenBoy emulator accuracy and performance
-- 🐧 Contributing to Linux kernel drivers
-- 📚 Building collaborative tools
-
 ## 📫 Connect With Me
 
 <div align="center">
