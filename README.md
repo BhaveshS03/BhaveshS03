@@ -6,6 +6,9 @@
 </div>
 
 
+<img src="PHY.gif" align="right" width="400">
+
+
 **Stuff about me**
 - I do full-stack web development with React, Node.js, and modern JavaScript/TypeScript
 - Interested in emulation, operating systems, Linux internals, and low-level systems programming in C/C++
