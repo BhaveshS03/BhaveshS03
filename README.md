@@ -22,4 +22,4 @@
 - [KeypointsExtractor](https://github.com/BhaveshS03/KeypointsExtractor) — ML-based keypoint extraction from images for Android
 - Emulator projects — GameBoy, CHIP-8, and experimental CPU emulators
 
-Currently working on complier development
+Currently working on building a complier
