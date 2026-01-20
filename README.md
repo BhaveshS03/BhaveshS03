@@ -6,7 +6,7 @@
 </div>
 
 
-<img src="PYh.gif" align="right" width="400">
+<img src="PYh.gif" align="right" width="200">
 
 
 **Stuff about me**
@@ -15,11 +15,11 @@
 - I build emulators
 - I occasionally use Python for tooling and ML work
 
-**Here are my Projects**
+**Here are some of my Projects**
 - [CollabDocs](https://github.com/BhaveshS03/Collabdocs-ui) — Real-time collaborative document editing platform
 - [AgroAI Models](https://github.com/BhaveshS03/AgroAi_Models) — Computer vision models for agricultural analysis
 - [Powermon](https://github.com/BhaveshS03/Powermon) — AMD CPU power monitoring tool for GNOME
 - [KeypointsExtractor](https://github.com/BhaveshS03/KeypointsExtractor) — ML-based keypoint extraction from images for Android
 - Emulator projects — GameBoy, CHIP-8, and experimental CPU emulators
 
-- Currently working on complier development
+Currently working on complier development
