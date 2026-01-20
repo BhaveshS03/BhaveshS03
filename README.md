@@ -5,8 +5,7 @@
 <p>I'm a full-stack developer currently studing Information Technology.
 </div>
 
-
-<img src="PYh.gif" align="right" width="200">
+<img src="PYh.gif" align="right" width="240">
 
 
 **Stuff about me**
